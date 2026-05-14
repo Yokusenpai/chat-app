@@ -37,9 +37,11 @@ const Navbar = () => {
               <span className="text-lg font-bold">6 Notifications</span>
               <span className="text-info">Ignored: 7</span>
               <div className="card-actions">
-                <button className="btn btn-primary btn-block">
-                  View Chats
-                </button>
+                <Link to="/">
+                  <button className="btn btn-primary btn-block">
+                    View Chats
+                  </button>
+                </Link>
               </div>
             </div>
           </div>
