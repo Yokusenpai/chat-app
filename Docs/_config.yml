@@ -1,0 +1,3 @@
+title: Chat App
+description: A polished full-stack chat application built with React, Vite, Zustand, Express, MongoDB, and Socket.io.
+theme: jekyll-theme-primer
